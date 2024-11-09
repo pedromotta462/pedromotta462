@@ -1,6 +1,6 @@
 # Hello, I'm Pedro Motta 👋
 
-## 🚀 Full Stack Developer | Open Source Enthusiast | Continuous Learner
+## 🚀 Full Stack Developer | Software as a Service Enthusiast | Continuous Learner
 
 ![Profile views](https://komarev.com/ghpvc/?username=pedromotta462&color=brightgreen)
 
